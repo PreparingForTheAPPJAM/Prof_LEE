@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Prof_LEE</string>
+    <string name="app_name">prof_LEE</string>
+    <string name="binding_error">Binding not initialized to reference the view.</string>
+
+    <!-- ReadActivity -->
+    <string name="read_chat_list">채팅 목록 보기</string>
+    <string name="home_menu_home">홈</string>
+    <string name="home_menu_town">동네생할</string>
+    <string name="home_menu_myplace">내 근처</string>
+    <string name="home_menu_chat">채팅</string>
+    <string name="home_menu_my">나의 당근</string>
+
+    <!-- StateBottomSheet -->
+    <string name="state_selling">판매중</string>
+    <string name="state_completed">거래완료</string>
+    <string name="state_reserving">예약중</string>
+    <string name="read_temperature">36.5ºC</string>
+    <string name="read_manner_temperature">매너온도</string>
+    <string name="read_dot">·</string>
+    <string name="read_views">조회</string>
+    <string name="read_price_won">원</string>
+    <string name="read_price_suggestion_true">가격 제안하기</string>
+    <string name="read_price_suggestion_false">가격 제안 불가</string>
 </resources>
